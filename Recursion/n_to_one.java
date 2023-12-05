@@ -1,3 +1,4 @@
+// Print number n to 1 ( decreasing order)
 public class n_to_one {
 
     public static void printinc(int n) {

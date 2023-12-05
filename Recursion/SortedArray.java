@@ -1,4 +1,5 @@
-public class SortedArray { // check wether the given array is sorted or not
+// check wether the given array is sorted or not
+public class SortedArray {
 
     public static boolean isSorted(int arr[], int i) {
         // base case
