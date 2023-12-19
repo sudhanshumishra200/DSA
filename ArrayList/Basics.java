@@ -19,13 +19,33 @@ public class Basics {
 
         System.out.println(list); // O(1)
 
-        // Get operation O(1)
-        int element = list.get(3);
-        System.out.println(element);
+        //// Get operation O(1)
+        // int element = list.get(3);
+        // System.out.println(element);
+        //
+        //// Delete operation O(n)
+        // list.remove(3);
+        // System.out.print(list);
+        //
+        //// set element at index
 
-        // Delete operation
-        list.remove(3);
-        System.out.print(list);
+        // list.set(2, 10); // O(n)
+        // System.out.println(list);
+
+        // contains element
+        // System.out.println(list.contains(2)); // O(n)
+        // System.out.println(list.contains(11));
+        list.add(3, 11);
+        System.out.println(list);
+
+        // size of an AL
+        System.out.println(list.size()); // .size()is a method
+
+        // print array list
+        for (int i = 0; i < list.size(); i++) {
+            System.out.print(list.get(i) + " ");
+        }
+        System.out.println();
 
     }
 
