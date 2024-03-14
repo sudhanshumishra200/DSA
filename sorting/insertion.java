@@ -1,4 +1,4 @@
-public class indertion {
+public class insertion {
     public static void inserttionsort(int arr[]){
         for (int i=1; i<arr.length; i++){
             int curr= arr[i];

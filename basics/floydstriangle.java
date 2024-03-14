@@ -1,3 +1,5 @@
+//floydstrinangle problem 
+
 public class floydstriangle {
     public static void floyds_Triangle(int n){
         int counter =1;

@@ -1,3 +1,4 @@
+// simple java question where we have to use the if else conditions 
 import java.util.*;
 public class cond {
      public static void main(String[] args) {

@@ -8,8 +8,8 @@ public class Basics {
         // className ObjectName = new className()
         // how to define ArrayList
         ArrayList<Integer> list = new ArrayList<>();
-        ArrayList<String> list2 = new ArrayList<>();
-        ArrayList<Boolean> list3 = new ArrayList<>();
+        // ArrayList<String> list2 = new ArrayList<>();
+        // ArrayList<Boolean> list3 = new ArrayList<>();
 
         list.add(1);
         list.add(2);
