@@ -11,7 +11,7 @@ public class linear_search {
     }
     public static void main(String args[]){
         int numbers[]= {11, 23, 45, 67, 80};
-        String menu[] = {"dosa " }
+       // String menu[] = {"dosa "};
         int key = 45;
         linearSearch(numbers, key);
 
