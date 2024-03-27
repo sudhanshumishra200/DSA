@@ -1,4 +1,3 @@
-import java.util.*;
 public class pairs {
 
     public static void array_pairs(int numbers[]){

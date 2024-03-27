@@ -1,13 +1,13 @@
 public class palindrome {
     public static boolean palindrome_check(String str) {
-        int n = str.length();
-        for (int i = 0; i < n - 1; i++) {
-            if (str.charAt(i) == str.charAt(n - 1 - i)) {
-                return true;
-            } else {
-                break;
-            }
-        }
+       // int n = str.length();
+        // for (int i = 0; i < n - 1; i++) {
+        //     if (str.charAt(i) == str.charAt(n - 1 - i)) {
+        //         return true;
+        //     } else {
+        //         break;
+        //     }
+        // }
         return false;
 
     }

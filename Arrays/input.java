@@ -15,6 +15,7 @@ public class input{
 
         System.out.print("Enter the math number :");
         marks[2] = sc.nextInt();//math
+        sc.close();
 
         System.out.println("phy " + marks[0]);
         System.out.println("chem " + marks[1]);

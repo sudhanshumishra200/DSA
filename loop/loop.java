@@ -13,6 +13,7 @@ public class loop {
         i++;
         }
         System.out.println(sum);
+        sc.close();
     }
 
 

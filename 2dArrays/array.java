@@ -46,6 +46,7 @@ public class array {
         System.out.print("Enter the key value :");
         int k;
         k = sc.nextInt();
+        sc.close();
 
         search(matrix, k);
 

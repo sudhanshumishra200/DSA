@@ -1,4 +1,3 @@
-import java.util.*;
 public class shareprice {
 
     public static int buy_And_sell_Stock(int price[]){

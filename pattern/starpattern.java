@@ -11,6 +11,7 @@ public class starpattern {
             System.out.print("*");
         }
         System.out.println();
+        sc.close();
     }
 
     }

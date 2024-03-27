@@ -19,5 +19,6 @@ public class avgofthree {
         double z =sc.nextDouble();
         
         avg( x,y,z);
+        sc.close();
     }
 }

@@ -1,4 +1,3 @@
-import java.util.*;
 public class maxsubarray2 {
 // optimize solution t.c is o(n^2)
     

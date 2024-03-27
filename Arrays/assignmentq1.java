@@ -25,6 +25,7 @@ public class assignmentq1 {// brute force approach
             nums[i] = sc.nextInt();
         }
         System.out.println(countduplicate(nums));
+        sc.close();
     }
 
 }

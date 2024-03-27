@@ -1,5 +1,5 @@
 public class dectobin {
-    public static void dectobin(int n)
+    public static void Dectobin(int n)
     {
         int myNum =n;
         int pow =0;
@@ -17,7 +17,7 @@ public class dectobin {
     }
 
     public static void main(String args[]){
-        dectobin(7);
+        Dectobin(7);
 
     }
     

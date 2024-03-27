@@ -1,5 +1,5 @@
 public class daimond {
-    public static void daimond(int n){
+    public static void Daimond(int n){
         //for first half 
         for (int i=1; i<=n; i++){
             //for space printing cond (n-i)
@@ -30,6 +30,6 @@ public class daimond {
     }
 
     public static void main(String args[]){
-        daimond(4);
+        Daimond(4);
     }
 }

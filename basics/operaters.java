@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class operaters {
      public static void main(String[] args) {   // calculate income tax

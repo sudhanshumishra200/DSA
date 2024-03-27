@@ -1,10 +1,11 @@
-import java.util.*;
+import java.util.*;  // write a program for a given number is prime or not 
 public class prime {
      public static void main(String args[])
      {
         System.out.println("Enter the value of n :");
         Scanner sc =new Scanner(System.in);
         int n= sc.nextInt();
+        sc.close();
     
         if (n==2)
         {

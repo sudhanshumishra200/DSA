@@ -1,4 +1,3 @@
-import java.util.*;
 public class reverse {
     
     public static void reverse_Array(int numbers[]){

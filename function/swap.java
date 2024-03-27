@@ -2,7 +2,7 @@ public class swap {
 
     
 
-        public static void swap(int a , int b){
+        public static void Swap(int a , int b){
             int temp = a; // swap
              a = b;
              b = temp;
@@ -15,7 +15,7 @@ public class swap {
         {
             int a=10;
             int b=24;
-            swap (a ,b );
+            Swap (a ,b );
     
     
         }

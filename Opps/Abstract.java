@@ -4,7 +4,7 @@ public class Abstract {
         h.eat();
         h.walk();
 
-        Mustang m = new Mustang();
+       // Mustang m = new Mustang();
 
         // System.out.println(h.color); // first animal constroctur will be called
 

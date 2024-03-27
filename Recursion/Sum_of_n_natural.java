@@ -4,7 +4,7 @@ public class Sum_of_n_natural {
         if (n == 1) {
             return 1;
         }
-        int snm1 = Sum(n - 1);
+        //int snm1 = Sum(n - 1);
         int fn = n + Sum(n - 1);
 
         return fn;

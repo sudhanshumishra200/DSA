@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class trappedrainwat {
 
       public static int trappedWater(int height[]){
