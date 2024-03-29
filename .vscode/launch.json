@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stri_Qs2",
+            "request": "launch",
+            "mainClass": "Practice.Stri_Qs2",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Sub_String",
+            "request": "launch",
+            "mainClass": "Practice.Sub_String",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "String_Basic",
+            "request": "launch",
+            "mainClass": "Practice.String_Basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
             "name": "P_string",
             "request": "launch",
             "mainClass": "Practice.P_string",

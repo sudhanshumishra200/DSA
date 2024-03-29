@@ -1,4 +1,5 @@
 package Practice;
+//Keep all -ve elements in the array one side
 
 public class arr_Qs4 {
     public static void main(String[] args) {
