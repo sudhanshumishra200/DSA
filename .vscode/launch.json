@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Qs10_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs10_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs9_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs9_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs8_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs8_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs7_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs7_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs6_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs6_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs5_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs5_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs4_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs4_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs3_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs3_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs2_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs2_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs1_Pattern",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs1_Pattern",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "arr_Qs5",
+            "request": "launch",
+            "mainClass": "Practice.arr_Qs5",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
             "name": "Stri_Qs2",
             "request": "launch",
             "mainClass": "Practice.Stri_Qs2",

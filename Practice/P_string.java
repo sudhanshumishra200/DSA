@@ -1,5 +1,5 @@
 package Practice;
-import java.util.*;
+//import java.util.*;
 
 public class P_string {
     public static void main(String[] args) {

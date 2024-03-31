@@ -1,0 +1,30 @@
+package Practice;
+// reverse a given array using temp array
+public class arr_Qs5 { 
+    public static void main(String[] args) {
+        int arr[]= {1,2,3,4,5};
+        //int reverse_arr[] =new int[5];
+
+        // //Traverse all elements in new array in opposite order
+        // for (int i=0; i<arr.length; i++){
+        //     reverse_arr[i]=arr[arr.length-1-i];
+        // }
+        // // print the array element
+        // for(int i=0; i<reverse_arr.length; i++){
+        //     System.out.print(reverse_arr[i] + " ");
+        // }
+         
+
+        // By using swaping
+        
+        for (int i=0; i<arr.length/2; i++){
+            int temp = arr[i];
+            arr[i] = arr[arr.length -1-i];
+            arr[arr.length-1-i] = temp;
+        }
+        for(int i=0; i<arr.length; i++){
+            System.out.print(arr[i] + " ");
+        }
+
+    }
+}
