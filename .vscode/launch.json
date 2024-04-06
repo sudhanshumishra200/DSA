@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Oops.basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.ARRAY.arr",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Oops.Basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs_1",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.stri_ngs.Qs_1",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs_1_string",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.strings.Qs_1_string",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs1_String",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Strings_1.Qs1_String",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Qs1_String",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.String.Qs1_String",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "String_Builder",
+            "request": "launch",
+            "mainClass": "Practice.String_Builder",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
             "name": "Qs10_Pattern",
             "request": "launch",
             "mainClass": "Striver_DSA_SHEET.PATTERNS.Qs10_Pattern",
