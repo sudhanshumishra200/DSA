@@ -18,7 +18,7 @@ public class cond {
         int tax;   // java default store zero
 
         if (income <500000){
-            tax = 0;
+            tax = 0; 
         }else if (income> 500000 && income <1000000) {
             tax = (int) (income*0.2);
         

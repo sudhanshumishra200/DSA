@@ -35,5 +35,8 @@ public class Qs8_Pattern {
     public static void main(String[] args) {
         pattern8(6);
     }
+
+    //add two number
+    
     
 }

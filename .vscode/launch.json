@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bsic2",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.bsic2",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "arr_Qs4",
+            "request": "launch",
+            "mainClass": "Practice.arr_Qs4",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
             "name": "basic",
             "request": "launch",
             "mainClass": "Striver_DSA_SHEET.Oops.basic",
