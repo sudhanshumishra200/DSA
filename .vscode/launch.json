@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.sortings.insertion",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "buBBle",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.sortings.buBBle",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "selections",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.sortings.selections",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "selec_sort",
+            "request": "launch",
+            "mainClass": "selec_sort",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Hashing.basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "string_palindrome",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.string_palindrome",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "reverse_arr",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.reverse_arr",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.factorial",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_num",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.Sum_of_num",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "print_1_toN",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.print_1_toN",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "print_Name",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.print_Name",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.Recursion.Basic",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "All_divisors",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.BasicMath.All_divisors",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.BasicMath.prime",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.BasicMath.Armstrong",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInte",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.BasicMath.ReverseInte",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.BasicMath.CountDigits",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Super",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Super",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Static",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInher",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.MultipleInher",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Interfaces",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Abstraction",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Methodover",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Methodover",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Polymorphism",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Inheritance",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Copyconstr",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Copyconstr",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "Copy_constr",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.Copy_constr",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
+            "name": "accessmodifier",
+            "request": "launch",
+            "mainClass": "Striver_DSA_SHEET.oops.accessmodifier",
+            "projectName": "DSA_c6465c35"
+        },
+        {
+            "type": "java",
             "name": "bsic2",
             "request": "launch",
             "mainClass": "Striver_DSA_SHEET.oops.bsic2",

@@ -5,7 +5,7 @@ public class selection {
         //outrer loop 
         for(int i=0; i<arr.length-1; i++){
             int minpos=i;
-            //for finfing the minimum element 
+            //for finding the minimum element 
             for (int j=i+1; j<arr.length; j++){
                 if (arr[minpos] > arr[j]){
                     minpos =j;
@@ -25,7 +25,7 @@ public class selection {
     }
 
     public static void main (String args[]){
-        int arr[] ={5, 4, 1, 3, 2};
+        int arr[] ={23,434,54,6,46};
         selection_sort(arr);
         printarr(arr);
     }
